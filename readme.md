@@ -1,6 +1,7 @@
 CARA is a 3ds homebrew game that is in active development
 the game is currently in a very early stage
 new versions are usually released at least once a week
+all music, sfx and gfx were made by me
 
 it's a game set in the year 2054, and takes place after a nuclear winter. It will be a turn based rpg with a top down overworld.
 
